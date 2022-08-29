@@ -1,6 +1,6 @@
 import commonRequest from '../'
-import { IQRCode } from './type'
-import { IResponseType } from '../type'
+// import { IQRCode } from './type'
+// import { IResponseType } from '../type'
 
 enum testAPI {
   testTest = ''
